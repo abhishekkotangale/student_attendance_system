@@ -32,33 +32,33 @@ This project simplifies attendance tracking by allowing students to mark their a
 
 1. Authetication
 
-<img src="project_image/authentication.png" alt="Authentication Image" width="200"/>
+<img src="project_image/authentication.png" alt="Authentication Image" width="1000"/>
 
 2. Admin Dashboard
 
-<img src="project_image/admin_dashboard.png" alt="Admin Dashboard Image" width="200"/>
+<img src="project_image/admin_dashboard.png" alt="Admin Dashboard Image" width="1000"/>
 
-3. Authetication
+3. Add Students
 
 <img src="project_image/add_student.png" alt="Add student Image" width="1000"/>
 
-4. Authetication
+4. QR Code Page
 
-<img src="project_image/qr_page.png" alt="QR Image" width="200"/>
+<img src="project_image/qr_page.png" alt="QR Image" width="1000"/>
 
-5. Authetication
+5. Student Dashboard
 
-<img src="project_image/student_dashboard.png" alt="Student Dahboard Image" width="200"/>
+<img src="project_image/student_dashboard.png" alt="Student Dahboard Image" width="1000"/>
 
 6. QR Scanned and attenadnce marked
 
-<img src="project_image/attendance_mark.png" alt="QR scanned attendance marked" width="200"/>
+<img src="project_image/attendance_mark.png" alt="QR scanned attendance marked" width="1000"/>
 
-7. Authetication
+7. All Students Attendance History
 
-<img src="project_image/student_attendance_history.png" alt="All Student attendance history Image" width="200"/>
+<img src="project_image/student_attendance_history.png" alt="All Student attendance history Image" width="1000"/>
 
-8. Authetication
+8. Student Attendance History
 
-<img src="project_image/student_attendance.png" alt="All Student attendance history Image" width="200"/>
+<img src="project_image/student_attendance.png" alt="All Student attendance history Image" width="1000"/>
 
