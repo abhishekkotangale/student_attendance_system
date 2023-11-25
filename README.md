@@ -1,5 +1,5 @@
 # Student Attendance System Website
-    This project simplifies attendance tracking by allowing students to mark their attendance through QR code scanning. 
+This project simplifies attendance tracking by allowing students to mark their attendance through QR code scanning. 
 
 
 ## Project Overview
