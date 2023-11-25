@@ -40,7 +40,7 @@ This project simplifies attendance tracking by allowing students to mark their a
 
 3. Authetication
 
-<img src="project_image/add_student.png" alt="Add student Image" width="200"/>
+<img src="project_image/add_student.png" alt="Add student Image" width="1000"/>
 
 4. Authetication
 
