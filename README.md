@@ -19,7 +19,7 @@ This project simplifies attendance tracking by allowing students to mark their a
 
 # How to run this project in your machine
 
-    1. Install the xampp in your system 
+    - Install the xampp in your system 
     - Download the project source file and save it into xampp/htdocs folder
     - open xampp and start apache and mysql
     - type localhost/phpmyadmin in your prefered browser like chrome/edge/firefox
