@@ -5,9 +5,11 @@ This project simplifies attendance tracking by allowing students to mark their a
 ## Project Overview
 
 Live project link  - https://attendease.000webhostapp.com/
+
 If you have to access project you can use credentials -
 
   username - testcase682@gmail.com
+  
   Password - Pass@123
 
 This project simplifies attendance tracking by allowing students to mark their attendance through QR code scanning. The system ensures swift and accurate attendance recording for effective monitoring.
