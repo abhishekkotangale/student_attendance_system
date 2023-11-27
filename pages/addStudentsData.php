@@ -25,10 +25,9 @@ if(isset($_POST['student_name']) && isset($_POST['student_email']) && isset($_PO
 
         if ($query) {
             $subject = 'Your Login Credentials';
-            $message = "Hello $name,\n\nYour login credentials are:\nEmail: $email\nPassword: $password";
-            $headers = 'From: your_email@example.com';
+            $message = "Hello $name,\n\nYour login credentials are:\nEmail: $email\nPassword: $password \n roll_number : $roll_number  ";
 
-            if (mail($email, $subject, $message, $headers)) {
+            if (mail($email, $subject, $message)) {
                 echo 'success';
             } else {
                 echo 'failed to send email';
