@@ -9,6 +9,7 @@ If you have to access project you can use credentials -
   
   Password - Pass@123
 
+Note  - To add new admin credentials you need to use database.
 
 
 ## Project Overview
