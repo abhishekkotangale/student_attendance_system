@@ -62,7 +62,6 @@ function removeStudent(studentId) {
             data: { student_id: studentId },
             success: function(response) {
                 if (response === 'removed') {
-                    // Show Toastify notification first
                     Toastify({
                         text: 'Student removed successfully.',
                         duration: 3000,
@@ -72,13 +71,8 @@ function removeStudent(studentId) {
                         backgroundColor: '#4CAF50',
                         stopOnFocus: true
                     }).showToast();
-
-                    // Reload the students list after removing a student
                     loadStudents();
-
-                    // Delay the redirection to allow the notification to be visible
                     setTimeout(function() {
-                        // Redirect to students page after removing student
                         window.location.href = 'students.php';
                     }, 1000); // Adjust the delay as needed
                 } else {
@@ -88,7 +82,7 @@ function removeStudent(studentId) {
                         close: true,
                         gravity: 'top',
                         position: 'right',
-                        backgroundColor: '#ff6347', // tomato color
+                        backgroundColor: '#ff6347',
                         stopOnFocus: true
                     }).showToast();
                 }
@@ -101,7 +95,7 @@ function removeStudent(studentId) {
                     close: true,
                     gravity: 'top',
                     position: 'right',
-                    backgroundColor: '#ff6347', // tomato color
+                    backgroundColor: '#ff6347',
                     stopOnFocus: true
                 }).showToast();
             }
